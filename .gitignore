@@ -1,1 +1,10 @@
 reddit_cred.json
+*.csv
+*.json
+__pycache__
+.ipynb_checkpoints
+*.txt
+test.*
+unpopular_model/
+reddit.ipynb
+sadgpt_model/
